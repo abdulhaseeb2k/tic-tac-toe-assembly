@@ -1,0 +1,15 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Assembly build artifacts
+*.obj
+*.exe
+*.asm
+*.lst
+
+# Other common build artifacts
+bin/
+obj/
